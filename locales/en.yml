@@ -1,7 +1,10 @@
 en:
   title: Hi, I'm David Miotti, Senior iOS Developer based in sunny Bordeaux.
+  description: |
+    Proficient in Swift, Ruby (RoR API), React, REST API, HTTP and PostgreSQL in Agile (Scrum) environment, I have a deep experience with the full life-cycle of software development, including requirements definition, prototyping, design, implementation, testing, documentation, and maintenance.
+  more: I keep learning every day.
   projects:
-    title: "Here are mobile applications I have built for clients and myself:"
+    title: "Here is a list of mobile applications I have built for clients and myself:"
     categories:
       business:
         title: 💼 Business
@@ -99,3 +102,4 @@ en:
           woupee:
             title: Woupee
             link: https://itunes.apple.com/fr/app/woupee-shopping-promos-et-bonnes-adresses/id1181916300?mt=8&l=en
+  social: You can follow me on <a href="https://twitter.com/davidmiotti" class="social" target="_blank">Twitter</a> and <a href="https://github.com/dmiotti" class="social" target="_blank">Github</a>.

@@ -1,0 +1,85 @@
+business:
+  grp:
+    title: GRP
+    link: https://itunes.apple.com/fr/app/grp-storyteller/id886223427?mt=8&l=en
+  ura:
+    title: Ura Camera Viewer
+    link: https://itunes.apple.com/fr/app/ura-camera-viewer/id604813662?mt=8&l=en
+
+catalogs:
+  egrand-pro:
+    title: Legrand Pro
+    link: https://itunes.apple.com/fr/app/catalogue-legrand-pro/id357003647?mt=8&l=en
+  legrand-conso:
+    title: Legrand Conso
+    link: https://itunes.apple.com/fr/app/catalogue-legrand-grand-public/id1220876174?mt=8&l=en
+
+entertainment:
+  megaselfie:
+    title: MyMegaselfie
+    link: https://itunes.apple.com/fr/app/mymegaselfie/id1218197721?mt=8&l=en
+
+food-drink:
+  worldmix:
+    title: Worldmix
+    link: https://itunes.apple.com/fr/app/worldmix-par-label-5-pour-r%C3%A9ussir-vos-cocktails/id1246744886?mt=8&l=en
+
+health-fitness:
+  dependn:
+    title: Dependn'
+    link: https://itunes.apple.com/fr/app/dependn-meilleure-app-pour-arreter-fumer-tabac-et-cannabis/id1093903062?mt=8&l=en
+  cocotte:
+    title: Cocotte
+    link: https://itunes.apple.com/fr/app/coach-nourriture-enceinte-alimentation-grossesse/id1148406816?mt=8&l=en
+  koala:
+    title: Koala
+    link: https://itunes.apple.com/us/app/koala-to-sleep-better-and-faster/id1224807364?l=en
+  sickle-o-scope:
+    title: Sickle-O-Scope
+    link: https://itunes.apple.com/us/app/sickle-o-scope/id978278725?mt=8&l=en
+  mindful:
+    title: Mindful Attitude
+    link: https://itunes.apple.com/fr/app/mindful-attitude-la-m%C3%A9ditation-des-entrepreneurs/id1184905321?mt=8&l=en
+  kelmed:
+    title: Kelmed
+    link: https://itunes.apple.com/fr/app/kelmed/id356406940?mt=8&l=en
+
+lifestyle:
+  simply-market:
+    title: Simply Market
+    link: https://itunes.apple.com/fr/app/simply-market-supermarch%C3%A9-plus-proche-de-vous/id684892652?mt=8&l=en
+  tellmewhere:
+    title: Tellmewhere
+    link: https://itunes.apple.com/fr/app/dismoio%C3%B9-restaurants-h%C3%B4tels-bars/id298056991?mt=8&l=en
+
+medical:
+  boddy-med:
+    title: Boddy Med
+    link: https://itunes.apple.com/fr/app/boddy-ma-question-sant%C3%A9-%C3%A0-un-docteur-en-ligne/id739209886?mt=8&l=en
+  boddy-psy:
+    title: Boddy Psy
+    link: https://itunes.apple.com/fr/app/boddy-consulter-psy-pour-le-stress-la-d%C3%A9pression-et/id932363553?mt=8&l=en
+  nutridial:
+    title: Nutridial
+    link: https://itunes.apple.com/fr/app/nutridial/id972630278?mt=8&l=en
+
+music:
+  trace-radio:
+    title: TRACE Radio
+    link: https://itunes.apple.com/fr/app/trace-radio-radios-fm-afro-urbaines/id1179170021?mt=8&l=en
+  kizym:
+    title: Kizym
+    link: https://itunes.apple.com/fr/app/kizym-concerts-en-france-ce-soir-pop-rap/id1105394462?mt=8&l=en
+
+productivity:
+  hedwig:
+    title: Hedwig
+    link: https://itunes.apple.com/us/app/schedule-texts-with-hedwig/id1193055246?mt=8&l=en
+  oenosolutions:
+    title: OenoSolutions
+    link: https://itunes.apple.com/us/app/oenosolutions/id1211158481&mt=8&l=en
+
+shopping:
+  woupee:
+    title: Woupee
+    link: https://itunes.apple.com/fr/app/woupee-shopping-promos-et-bonnes-adresses/id1181916300?mt=8&l=en

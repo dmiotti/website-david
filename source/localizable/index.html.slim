@@ -1,0 +1,11 @@
+.wrapper
+  h1 = t 'title'
+  h2 = t 'projects.title'
+  - t('projects.categories').each do |id, category|
+    = link_to "#{category[:title]} (#{category[:apps].length})", 'javascript:void(0);', onclick: "displayList('#{id}')", class: "category-link"
+    .category id="category_#{id}"
+      - category[:apps].each do |id, app|
+        .app#applist
+          = link_to app[:link]
+            = image_tag "#{id}.png"
+          h4 = app[:title]

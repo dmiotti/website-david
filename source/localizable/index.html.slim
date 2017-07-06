@@ -1,6 +1,8 @@
+.cover
+
 .wrapper
-  = image_tag "avatar.jpeg", class: "avatar"
   h1 = t 'title'
+  p = t 'intro'
   p = t 'description'
   p = t 'more'
   p = t 'projects.title'
@@ -12,4 +14,7 @@
           = link_to app[:link], target: "_blank"
             = image_tag "#{id}.png", class: "logo-app"
           h3 = app[:title]
+  p = t 'languages'
   p = t 'social'
+  p = t 'contact'
+  = image_tag "avatar.jpeg", class: "avatar"

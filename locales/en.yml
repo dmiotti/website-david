@@ -1,10 +1,11 @@
 en:
   title: Hi, I'm David Miotti, Senior iOS Developer based in sunny Bordeaux.
+  intro: I am passionate about smartphones and Apple technologies.
   description: |
     Proficient in Swift, Ruby (RoR API), React, REST API, HTTP and PostgreSQL in Agile (Scrum) environment, I have a deep experience with the full life-cycle of software development, including requirements definition, prototyping, design, implementation, testing, documentation, and maintenance.
-  more: I keep learning every day.
+  more: I learn every day. Maintaining my skills to the highest standards and testing new languages is part of my daily routine and I love it.
   projects:
-    title: "Here is a list of mobile applications I have built for clients and myself:"
+    title: "I have developed more than 20 different iOS apps, some having more than 1 million of downloads:"
     categories:
       business:
         title: 💼 Business
@@ -102,4 +103,10 @@ en:
           woupee:
             title: Woupee
             link: https://itunes.apple.com/fr/app/woupee-shopping-promos-et-bonnes-adresses/id1181916300?mt=8&l=en
-  social: You can follow me on <a href="https://twitter.com/davidmiotti" class="social" target="_blank">Twitter</a> and <a href="https://github.com/dmiotti" class="social" target="_blank">Github</a>. And don't hesitate to <a href="mailto:david.miotti@gmail.com" class="social">contact me</a>!
+  languages: |
+    I work in French and English.
+  social: |
+    This is my <a href="https://github.com/dmiotti" class="social" target="_blank">Github</a> account if you'd like to see some of my open source projects.
+    You can also follow me on <a href="https://twitter.com/davidmiotti" class="social" target="_blank">Twitter</a>.
+  contact: |
+    And feel free to <a href="mailto:david.miotti@gmail.com" class="social">contact me</a> if you have projects you would like me to work on with you, or just to say hi!
